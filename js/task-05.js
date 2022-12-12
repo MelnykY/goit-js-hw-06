@@ -9,4 +9,5 @@ const inputName = () => {
   }
 };
 
-inputElement.addEventListener("input", inputName);
+ inputElement.addEventListener("input", inputName);
+
